@@ -115,6 +115,8 @@ This type of dataset is commonly used in HR analytics to evaluate workforce dist
 ## Tools Used
 
 * SQL (MySQL)
+* Google BigQuery
+* Looker Studios
 * GitHub
 
 ---
